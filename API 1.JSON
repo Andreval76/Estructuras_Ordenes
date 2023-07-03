@@ -1,0 +1,23 @@
+{
+    "OrderID": 123456,
+    "Address": "Calle Principal 789",
+    "Status": "En proceso",
+    "Articles": [
+      {
+        "Name": "Camiseta",
+        "Quantity": 2,
+        "Dangerous": true
+      },
+      {
+        "Name": "Baterías",
+        "Quantity": 4,
+        "Dangerous": false
+      },
+      {
+        "Name": "Libro",
+        "Quantity": 1,
+        "Dangerous": true
+      }
+    ]
+  }
+  
